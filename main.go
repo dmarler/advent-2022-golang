@@ -7,5 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println(advent.DayOne("advent/day_one_data.txt"))
+	fmt.Println("Day 1: ", advent.DayOne("advent/day_one_data.txt"))
+	fmt.Println("Day 2: ", advent.DayTwo("advent/day_two_data.txt"))
 }
