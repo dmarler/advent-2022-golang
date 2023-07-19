@@ -9,4 +9,5 @@ import (
 func main() {
 	fmt.Println("Day 1: ", advent.DayOne("advent/day_one_data.txt"))
 	fmt.Println("Day 2: ", advent.DayTwo("advent/day_two_data.txt"))
+	fmt.Println("Day 3: ", advent.DayThree("advent/day_three_data.txt"))
 }
